@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+
+### Start of Alvin's Log -- Keeping the sample log until I get the hang of it
+### Day 0: January 1, 2017
+
+**Today's Progress**: Cloned the repo, edited some things
+
+**Thoughts:** None
+
+**Link to work:** [GitHub](https://github.com/chen-alvin/100-days-of-code)
+
+
+
+
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
