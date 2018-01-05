@@ -18,14 +18,21 @@
 
 **Link to work:** [Challenge Reached] (https://www.freecodecamp.org/challenges/factorialize-a-number)
 
-
-### Day 2:
+### Day 2: January 3, 2017
 
 **Today's Progress:** Did more Algos on FCC.
 
 **Thoughts:** I am really rusty at JS!
 
 **Link to work:** [Palindromes!](https://www.freecodecamp.org/challenges/check-for-palindromes)
+
+### Day 3: January 4, 2017
+
+**Today's Progress:** FCC Algos
+
+**Thoughts:** The challenges aren't too difficult, but I should practice whiteboarding while I'm at it.
+
+**Link to work:** [Slasher Flick](https://www.freecodecamp.org/challenges/slasher-flick)
 
 
 
