@@ -34,6 +34,14 @@
 
 **Link to work:** [Slasher Flick](https://www.freecodecamp.org/challenges/slasher-flick)
 
+### Day 4: January 5, 2017
+
+**Today's Progress:** Making more progress on FCC Algos.
+
+**Thoughts:** None.
+
+**Link to work:** [Mutations](https://www.freecodecamp.org/challenges/mutations)
+
 
 
 ### Day TODO:
