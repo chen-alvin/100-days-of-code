@@ -43,6 +43,14 @@
 **Link to work:** [Mutations](https://www.freecodecamp.org/challenges/mutations)
 
 
+### Day 5: January 8, 2017
+
+**Today's Progress:** Finished all the algos!
+
+**Thoughts:** I messed up and skipped 2 days. And they were weekends!
+
+**Link to work:** [starting jQuery](https://www.freecodecamp.org/challenges/trigger-click-events-with-jquery)
+
 
 ### Day TODO:
 
