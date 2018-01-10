@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
 
+
 ### Start of Alvin's Log -- Keeping the sample log until I get the hang of it
 ### Day 0: January 1, 2017
 
@@ -10,6 +11,7 @@
 
 **Link to work:** [GitHub](https://github.com/chen-alvin/100-days-of-code)
 
+
 ### Day 1: January 2, 2017
 
 **Today's Progress:** Did some FCC stuff.
@@ -17,6 +19,7 @@
 **Thoughts:** My JS is rusty.
 
 **Link to work:** [Challenge Reached] (https://www.freecodecamp.org/challenges/factorialize-a-number)
+
 
 ### Day 2: January 3, 2017
 
@@ -26,6 +29,7 @@
 
 **Link to work:** [Palindromes!](https://www.freecodecamp.org/challenges/check-for-palindromes)
 
+
 ### Day 3: January 4, 2017
 
 **Today's Progress:** FCC Algos
@@ -33,6 +37,7 @@
 **Thoughts:** The challenges aren't too difficult, but I should practice whiteboarding while I'm at it.
 
 **Link to work:** [Slasher Flick](https://www.freecodecamp.org/challenges/slasher-flick)
+
 
 ### Day 4: January 5, 2017
 
@@ -50,6 +55,15 @@
 **Thoughts:** I messed up and skipped 2 days. And they were weekends!
 
 **Link to work:** [starting jQuery](https://www.freecodecamp.org/challenges/trigger-click-events-with-jquery)
+
+
+### Day 6: January 9, 2017
+
+**Today's Progress:** Skipped to Intermediate Algos.
+
+**Thoughts:** I should try whiteboarding these more.
+
+**Link to work:** [Sum Numbers in a range](https://www.freecodecamp.org/challenges/sum-all-numbers-in-a-range)
 
 
 ### Day TODO:
