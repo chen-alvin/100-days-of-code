@@ -66,6 +66,16 @@
 **Link to work:** [Sum Numbers in a range](https://www.freecodecamp.org/challenges/sum-all-numbers-in-a-range)
 
 
+### Day 7: January 10, 2017
+
+**Today's Progress:** Did more Intermediate Algos.
+
+**Thoughts:** Starting to pick up in challenge! Some I've done before, but I'm struggling to find solutions for again, which is ok.
+
+**Link to work:** [Diff Two Arrays](https://www.freecodecamp.org/challenges/diff-two-arrays)
+
+
+
 ### Day TODO:
 
 **Today's Progress:** 
