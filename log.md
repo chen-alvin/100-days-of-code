@@ -75,6 +75,35 @@
 **Link to work:** [Diff Two Arrays](https://www.freecodecamp.org/challenges/diff-two-arrays)
 
 
+### Day 8: January 11, 2017
+
+**Today's Progress:** Intermediate algos
+
+**Thoughts:** I'm not as good as I remember!
+
+**Link to work:** [Wherefore, whomst?](https://www.freecodecamp.org/challenges/wherefore-art-thou)
+
+
+### Day 9: January 15, 2017
+
+**Today's Progress:** NONE
+
+**Thoughts:** THIS IS HARD (I mean, working for an hour on the same problem is still work.)
+
+**Link to work:** [WHOMST](https://www.freecodecamp.org/challenges/wherefore-art-thou)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Day TODO:
 
