@@ -3,7 +3,7 @@
 
 
 ### Start of Alvin's Log -- Keeping the sample log until I get the hang of it
-### Day 0: January 1, 2017
+### Day 0: January 1, 2018
 
 **Today's Progress:** Cloned the repo, edited some things
 
@@ -12,7 +12,7 @@
 **Link to work:** [GitHub](https://github.com/chen-alvin/100-days-of-code)
 
 
-### Day 1: January 2, 2017
+### Day 1: January 2, 2018
 
 **Today's Progress:** Did some FCC stuff.
 
@@ -21,7 +21,7 @@
 **Link to work:** [Challenge Reached] (https://www.freecodecamp.org/challenges/factorialize-a-number)
 
 
-### Day 2: January 3, 2017
+### Day 2: January 3, 2018
 
 **Today's Progress:** Did more Algos on FCC.
 
@@ -30,7 +30,7 @@
 **Link to work:** [Palindromes!](https://www.freecodecamp.org/challenges/check-for-palindromes)
 
 
-### Day 3: January 4, 2017
+### Day 3: January 4, 2018
 
 **Today's Progress:** FCC Algos
 
@@ -39,7 +39,7 @@
 **Link to work:** [Slasher Flick](https://www.freecodecamp.org/challenges/slasher-flick)
 
 
-### Day 4: January 5, 2017
+### Day 4: January 5, 2018
 
 **Today's Progress:** Making more progress on FCC Algos.
 
@@ -48,7 +48,7 @@
 **Link to work:** [Mutations](https://www.freecodecamp.org/challenges/mutations)
 
 
-### Day 5: January 8, 2017
+### Day 5: January 8, 2018
 
 **Today's Progress:** Finished all the algos!
 
@@ -57,7 +57,7 @@
 **Link to work:** [starting jQuery](https://www.freecodecamp.org/challenges/trigger-click-events-with-jquery)
 
 
-### Day 6: January 9, 2017
+### Day 6: January 9, 2018
 
 **Today's Progress:** Skipped to Intermediate Algos.
 
@@ -66,7 +66,7 @@
 **Link to work:** [Sum Numbers in a range](https://www.freecodecamp.org/challenges/sum-all-numbers-in-a-range)
 
 
-### Day 7: January 10, 2017
+### Day 7: January 10, 2018
 
 **Today's Progress:** Did more Intermediate Algos.
 
@@ -75,7 +75,7 @@
 **Link to work:** [Diff Two Arrays](https://www.freecodecamp.org/challenges/diff-two-arrays)
 
 
-### Day 8: January 11, 2017
+### Day 8: January 11, 2018
 
 **Today's Progress:** Intermediate algos
 
@@ -84,7 +84,7 @@
 **Link to work:** [Wherefore, whomst?](https://www.freecodecamp.org/challenges/wherefore-art-thou)
 
 
-### Day 9: January 15, 2017
+### Day 9: January 15, 2018
 
 **Today's Progress:** NONE
 
@@ -93,7 +93,13 @@
 **Link to work:** [WHOMST](https://www.freecodecamp.org/challenges/wherefore-art-thou)
 
 
+### Day 10: January 16, 2018
 
+**Today's Progress:** Switched Algos
+
+**Thoughts:** I've been using the wrong year. D'oh.
+
+**Link to work:** [Roman Numerals](https://www.freecodecamp.org/challenges/roman-numeral-converter)
 
 
 
